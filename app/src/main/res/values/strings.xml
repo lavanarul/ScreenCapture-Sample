@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name" translatable="false">Screen Recorder</string>
+    <string name="res_key" translatable="false">resolution</string>
+    <string name="fps_key" translatable="false">fps</string>
+
+    <string name="bitrate_key" translatable="false">bitrate</string>
+    <string name="audiorec_key" translatable="false">audiorec</string>
+    <string name="savelocation_key" translatable="false">savelocation</string>
+    <string name="filename_key" translatable="false">filename</string>
+    <string name="fileprefix_key" translatable="false">fileprefix</string>
+    <string name="storage_permission_request_title">Allow Storage Permission</string>
+    <string name="storage_permission_request_summary">Write permission to storage is required to save the recorded video.</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="screen_recording_permission_denied">Screen Recording Permission Denied</string>
+    <string name="screen_recording_notification_title">Screen recording</string>
+    <string name="screen_recording_notification_action_stop">Stop</string>
+    <string name="screen_recording_notification_action_pause">Pause</string>
+    <string name="screen_recording_notification_action_resume">Resume</string>
+    <string name="fatal_exception_message">ScreenRecorder: Fatal Exception occurred. Log has been sent</string>
+
+    <string name="fab_record_hint">Start recording</string>
+    <string name="recording_failed_toast">Screen recording failed.</string>
+    <string name="screenrecording_already_active_toast">Screen recording session already active</string>
+    <string name="app_shortcut_action" translatable="false">com.xpressit.screenrecorder.RECORD</string>
+
+
+    <string name="screen_recording_started_toast">Screen recording started</string>
+    <string name="screen_recording_stopped_toast">Screen Recording stopped</string>
+    <string name="screen_recording_resumed_toast">Screen Recording resumed</string>
+    <string name="screen_recording_paused_toast">Screen Recording paused</string>
+
+    <string name="share_intent_title">Video Recorded</string>
+    <string name="share_intent_notification_title">Video Recorded Successfully</string>
+    <string name="tap">Tap the button</string>
+
+
+</resources>
